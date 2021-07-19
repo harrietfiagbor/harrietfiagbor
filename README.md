@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harriet
 - 👀 I’m interested in AI, machine learning and prediction of data 
 - 🌱 I’m currently learning Machine learning and how to build models to predict data
-- 💞️ I’m looking to collaborate on sosftwares and robots with learning models
+- 💞️ I’m looking to collaborate on softwares and robots with learning models
 - 📫 How to reach me ...
 
 <!---
