@@ -3,7 +3,12 @@
 </div>
 
 # 💫 About Me:
-Hey there, fellow curious minds! 👋<br>I'm Harriet, a self-proclaimed AI enthusiast, code wrangler, and master of the Pythonic arts! 🐍 As a recent graduate from the school of life (I mean, academia), I'm here to embark on an extraordinary journey of exploration and innovation in the world of large language models.<br>🧠 AI Researcher: My mind's playground is the realm of artificial intelligence, and I'm particularly smitten with large language models. I love unleashing the full potential of language to unlock the secrets of the universe and tell some fascinating AI-generated jokes along the way!<br>🌐 Polyglot Programmer: While Python is my one true love, I've also dabbled in the enchanting melodies of JavaScript and I'm on a quest to conquer C++. With a touch of whimsy and a sprinkle of logic, I weave code spells that bring ideas to life.<br>🐧 Linux Lover: As a penguin at heart, I find solace in the open-source embrace of Linux. The command line is my dance floor, and the terminal is my stage! 🕺<br>📝 Neovim Nerd: When I'm not unraveling AI mysteries, you'll likely find me crafting code in the radiant realm of Neovim. The thrill of lightning-fast editing fuels my productivity, and the extensibility keeps me spellbound!<br>🚀 Project Alchemist: My GitHub cauldron brews a heady concoction of intriguing creations. From serious applications harnessing the might of large language models to whimsical websites and even game adventures, my projects may journey to unexpected realms.<br>Join me in my quest for knowledge and innovation as we traverse the ever-changing landscapes of AI and software engineering. Let's collaborate and create a world where code dreams come true!<br>Don't forget to follow me to stay updated with the magical concoctions bubbling in my repository cauldron! 🧙‍♂️<br>When I'm not crafting code, you'll find me immersed in the captivating world of Chinese mythology novels, especially Xianxia tales that transport me to mystical realms. And, oh, don't even get me started on my love for watching Donghua! 🎎✨
+I'm Harriet. 
+- AI developer with a focus on LLMs.
+- Python enthusiast exploring the other whimsical world of coding including, C++, JS, .NET
+- Linux user and Neovim Aficionado
+- Diving into Chinese realms, wuxia/xianxia
+- Enjoying Donghua whilst I eat.
 
 
 ## 🌐 Socials:
